@@ -1,6 +1,7 @@
 :root {
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
+  font-family: Arial, sans-serif;
+  color: #172033;
+  background: #ffffff;
 }
 
 body {
